@@ -1,30 +1,30 @@
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES EUROSPORT",ES: EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" ,ES: EUROSPORT 1 HD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/290349.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES EUROSPORT",ES: EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 HD
 http://185.233.16.3:80/live/XFAAM57428/MK587428846/290352.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" group-title="USA",US: TENNIS CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" ,US: TENNIS CHANNEL HD
 http://185.233.16.3:80/live/vi26856/YCqv3GhBxe/751366.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDDGHxNS_HI8NBrQIx_EN-jpQawXUl_NP-cJePHcmOhNg.png" group-title="Italy",IT: SUPER TENNIS VIP HD
-http://352901401271891743.ofrt0823.xyz:80/live/vi26856/YCqv3GhBxe/891743.ts
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5sj23gXQdJg8S3NyLjTJcj5Cs20sMmn3NXxWn-MSnClix2xOK6NjbV1LVbIcGh2R58.png" group-title="Germany",DE: SKY SPORT TENNIS HD
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDDGHxNS_HI8NBrQIx_EN-jpQawXUl_NP-cJePHcmOhNg.png" ,IT: SUPER TENNIS VIP HD
+http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/891743.ts
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5sj23gXQdJg8S3NyLjTJcj5Cs20sMmn3NXxWn-MSnClix2xOK6NjbV1LVbIcGh2R58.png" ,DE: SKY SPORT TENNIS HD
 http://185.233.16.3:80/live/vi26856/YCqv3GhBxe/827326.ts
-#EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-name="IT: SKY SPORT TENNIS HD" tvg-logo="" group-title="Italy",IT: SKY SPORT TENNIS HD
-http://352901401271911438.ofrt0823.xyz:80/live/vi26856/YCqv3GhBxe/911438.ts
-#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT TENNIS HD" tvg-logo="" group-title="SVIP SPORTS",AF: SUPERSPORT TENNIS HD
-http://352901401271907606.ofrt0823.xyz:80/live/vi26856/YCqv3GhBxe/907606.ts
+#EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-name="IT: SKY SPORT TENNIS HD" tvg-logo="" ,IT: SKY SPORT TENNIS HD
+http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/911438.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT TENNIS HD" tvg-logo="" ,AF: SUPERSPORT TENNIS HD
+http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/907606.ts
 
 
-#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES DEPORTES",ES: M+ GOLF HD
+#EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" ,ES: M+ GOLF HD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/268095.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="" group-title="SVIP UFC",UFC FIGHT PASS FHD
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="" ,UFC FIGHT PASS FHD
 http://185.233.16.3:80/live/XFAAM57428/MK587428846/786296.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" ,ES: DISCOVERY CHANNEL FHD
 http://185.233.16.3:80/live/XFAAM57428/MK587428846/859785.ts
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="ES   MOVISTAR+",ES: HISTORIA HD
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" ,ES: HISTORIA HD
 http://185.233.16.3:80/live/XFAAM57428/MK587428846/339761.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" ,ES: NATIONAL GEOGRAPHIC HD
 http://185.233.16.3:80/live/XFAAM57428/MK587428846/321372.ts
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="ES   MOVISTAR+",ES: M+ DOCUMENTALES HD
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,ES: M+ DOCUMENTALES HD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/552955.ts
