@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" ,ES: EUROSPORT 1 HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/290349.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/290352.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" ,US: TENNIS CHANNEL HD
 http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/751366.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" ,ES: TENNIS CHANNEL HD
