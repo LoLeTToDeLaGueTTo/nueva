@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" ,ES: EUROSPORT 1 HD
+http://185.233.16.53:80/live/XFAAM57428/MK587428846/290349.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 HD
+http://185.233.16.53:80/live/XFAAM57428/MK587428846/290352.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" ,US: TENNIS CHANNEL HD
 http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/751366.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" ,ES: TENNIS CHANNEL HD
@@ -8,6 +14,8 @@ http://185.233.16.53:80/live/mass0210/Apeyapttt121/931007.ts
 http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/827326.ts
 #EXTINF:-1 tvg-id="" tvg-name="AF: ZA SUPERSPORT TENNIS HD" tvg-logo="" ,AF: ZA SUPERSPORT TENNIS HD
 http://185.233.16.53:80/live/mass0210/Apeyapttt121/938897.ts
+
+
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" ,ES: M+ GOLF HD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/268095.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS FHD" tvg-logo="" ,UFC FIGHT PASS FHD
