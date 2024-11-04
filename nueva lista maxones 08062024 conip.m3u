@@ -20,8 +20,8 @@ http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/857436
 
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" ,ES: M+ GOLF HD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/268095.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: UFC FIGHT PASS FHD" tvg-logo="https://asiagrandiptv.us/logo/ufctv.png" ,US: UFC FIGHT PASS FHD
-http://185.233.16.53:80/live/mass0210/Apeyapttt121/925402.ts
+#EXTINF:-1 tvg-id="DLEO 02:" tvg-name="PPV: UFC FIGHT PASS 24/7" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" 
+http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/851451
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" ,ES: DISCOVERY CHANNEL FHD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/859785.ts
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" ,ES: HISTORIA HD
