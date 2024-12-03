@@ -6,14 +6,14 @@ http://185.233.16.53:80/live/XFAAM57428/MK587428846/290352.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" ,US: TENNIS CHANNEL HD
 http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/751366.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" ,ES: TENNIS CHANNEL HD
-http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/538753.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL SD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png?width=3840&height=2160" ,ES: TENNIS CHANNEL SD
+http://185.233.16.111:80/live/mass0210/Apeyapttt121/641282.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky Sport Tennis FHD" tvg-logo="http://xplatinmedia.com:8080/images/94e05a808722395463d2e75bcceefa4f.png" | Sky Sport Tennis FHD
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/880735
-#EXTINF:-1 tvg-id="" tvg-name="DE: Super Tennis" tvg-logo="http://pluspng.com/img-png/germany-flag-png-open-2000.png" ,DE: Super Tennis
-http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/856704
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5sj23gXQdJg8S3NyLjTJcj5Cs20sMmn3NXxWn-MSnClix2xOK6NjbV1LVbIcGh2R58.png" ,DE: SKY SPORT TENNIS HD
-http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/827326.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SUPER TENNIS VIP SD" tvg-logo="" ,IT: SKY SUPER TENNIS VIP SD
+http://185.233.16.111:80/live/mass0210/Apeyapttt121/942868.ts
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
+http://185.233.16.111:80/live/mass0210/Apeyapttt121/978916.ts
 #EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" : SuperSport Tennis
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/857436
 
