@@ -1,13 +1,11 @@
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" ,ES: EUROSPORT 1 HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/290349.ts
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/290349.ts
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" ,ES: EUROSPORT 2 HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/290352.ts
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/290352.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL HD" tvg-logo="" ,US: TENNIS CHANNEL HD
-http://185.233.16.53:80/live/vi26856/YCqv3GhBxe/751366.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL SD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png?width=3840&height=2160" ,ES: TENNIS CHANNEL SD
-http://185.233.16.111:80/live/mass0210/Apeyapttt121/641282.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" ,ES: TENNIS CHANNEL HD
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/538753.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky Sport Tennis FHD" tvg-logo="http://xplatinmedia.com:8080/images/94e05a808722395463d2e75bcceefa4f.png" | Sky Sport Tennis FHD
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/880735
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY SUPER TENNIS VIP SD" tvg-logo="" ,IT: SKY SUPER TENNIS VIP SD
@@ -19,16 +17,14 @@ http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/857436
 
 
 #EXTINF:-1 tvg-id="movistargolf2.es" tvg-name="ES: M+ GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" ,ES: M+ GOLF HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/268095.ts
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/268095.ts
 #EXTINF:-1 tvg-id="DLEO 02:" tvg-name="PPV: UFC FIGHT PASS 24/7" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" 
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/851451
-#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" ,ES: DISCOVERY CHANNEL FHD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/859785.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUu5r9b2S3Q6B5m3v2gn0Tpze-flMQGXO8kRP3x7RzRaAg.png" ,ES: DISCOVERY CHANNEL FHD
-http://185.233.16.111:80/live/mass0210/Apeyapttt121/859785.ts
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" ,ES: HISTORIA HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/339761.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" ,ES: DISCOVERY CHANNEL HD
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/859786.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtnxIYYhzV-AtxNXFwD3gURtDr28OAhkojPEo8ZY-mUSA.png" ,ES: HISTORIA HD
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/339761.ts
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" ,ES: NATIONAL GEOGRAPHIC HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/321372.ts
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/321372.ts
 #EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" ,ES: M+ DOCUMENTALES HD
-http://185.233.16.53:80/live/XFAAM57428/MK587428846/552955.ts
+http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/552955.ts
