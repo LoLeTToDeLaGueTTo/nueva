@@ -24,6 +24,8 @@ http://185.233.16.53:80/live/XFAAM57428/MK587428846/268095.ts
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/851451
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" ,ES: DISCOVERY CHANNEL FHD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/859785.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUu5r9b2S3Q6B5m3v2gn0Tpze-flMQGXO8kRP3x7RzRaAg.png" ,ES: DISCOVERY CHANNEL FHD
+http://185.233.16.111:80/live/mass0210/Apeyapttt121/859785.ts
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" ,ES: HISTORIA HD
 http://185.233.16.53:80/live/XFAAM57428/MK587428846/339761.ts
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" ,ES: NATIONAL GEOGRAPHIC HD
