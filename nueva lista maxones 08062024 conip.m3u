@@ -8,10 +8,10 @@ http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/290352.ts
 http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/538753.ts
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky Sport Tennis FHD" tvg-logo="http://xplatinmedia.com:8080/images/94e05a808722395463d2e75bcceefa4f.png" | Sky Sport Tennis FHD
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/880735
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SUPER TENNIS VIP SD" tvg-logo="" ,IT: SKY SUPER TENNIS VIP SD
-http://185.233.16.111:80/live/mass0210/Apeyapttt121/942868.ts
 #EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
-http://185.233.16.111:80/live/mass0210/Apeyapttt121/978916.ts
+http://185.233.16.36:80/live/mass0210/Apeyapttt121/1003571.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SUPER TENNIS VIP SD" tvg-logo="" ,IT: SKY SUPER TENNIS VIP SD
+http://185.233.16.101:80/play/fe16285/GVe4VJe9MnB/990433.ts
 #EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" : SuperSport Tennis
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/857436
 
@@ -22,6 +22,8 @@ http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/268095.ts
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/851451
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" ,ES: DISCOVERY CHANNEL HD
 http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/859786.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA HD" tvg-logo="https://miguia.tv/channels/big_131.png" ,ES: ODISEA HD
+http://185.233.16.36:80/live/DRCJYRHAU5/rWjFTnk3KBjt/825201.ts
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtnxIYYhzV-AtxNXFwD3gURtDr28OAhkojPEo8ZY-mUSA.png" ,ES: HISTORIA HD
 http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/339761.ts
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://miguia.tv/channels/big_124.png" ,ES: NATIONAL GEOGRAPHIC HD
