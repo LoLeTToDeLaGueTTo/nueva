@@ -17,6 +17,15 @@ http://154.16.180.221:8080/bFp6234tTCGP/48GZnFbyLc2T/416364
 #EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" : SuperSport Tennis
 http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/857436
 
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS VIP SD" tvg-logo="" ,IT: SKY SPORT TENNIS VIP SD
+http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/1034252.ts
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
+http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/812719.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT TENNIS FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOVEOOzPVlmFbCFZ8m6PDGydRqhOw4aAN6ZdP8C4Zp521rTTGjUn-QxLUL3trIKZnc.png" ,ZA SUPERSPORT TENNIS FHD
+http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/1045115.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL SD" tvg-logo="" ,US: TENNIS CHANNEL SD
+http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/988242.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="|.ESP.|_M+GOLF red" tvg-logo="" ,|.ESP.|_M+GOLF red
 http://154.16.180.221:8080/bFp6234tTCGP/48GZnFbyLc2T/354365
