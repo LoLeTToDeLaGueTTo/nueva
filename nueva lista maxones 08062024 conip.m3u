@@ -4,27 +4,14 @@ http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/290349.ts
 http://185.233.16.111:80/live/DRCJYRHAU5/rWjFTnk3KBjt/290352.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT DEPORTE: TENNIS CHANNEL" tvg-logo="" ,LAT DEPORTE: TENNIS CHANNEL
-http://154.16.180.221:8080/bFp6234tTCGP/48GZnFbyLc2T/311979
-#EXTINF:-1 tvg-id="" tvg-name="[USA] Tennis Channel HD" tvg-logo="" ,[USA] Tennis Channel HD
-http://154.16.180.221:8080/bFp6234tTCGP/48GZnFbyLc2T/329043
-#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Sport Tennis FHD" tvg-logo="http://xplatinmedia.com:8080/images/94e05a808722395463d2e75bcceefa4f.png" | Sky Sport Tennis FHD
-http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/880735
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE - SKY SPORT TENNIS HD" tvg-logo="http://go4.pw/germany/SKY%20SPORT%20TENNIS%20FHD.png" ,DE - SKY SPORT TENNIS HD
-http://154.16.180.221:8080/bFp6234tTCGP/48GZnFbyLc2T/403618
-#EXTINF:-1 tvg-id="" tvg-name="|.ITA.|_SUPERTENNIS red" tvg-logo="" ,|.ITA.|_SUPERTENNIS red
-http://154.16.180.221:8080/bFp6234tTCGP/48GZnFbyLc2T/416364
-#EXTINF:-1 tvg-id="" tvg-name="SS: SuperSport Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SS: SuperSport_HD.png" : SuperSport Tennis
-http://45.12.3.26:8080/ps2qan2zmWWW/UrEW2M8RBbT8/857436
-
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS VIP SD" tvg-logo="" ,IT: SKY SPORT TENNIS VIP SD
-http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/1034252.ts
+http://185.233.16.111:80/play/he1216002/aDhsTrGUpgdT/1034252.ts
 #EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
-http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/812719.ts
+http://185.233.16.111:80/play/he1216002/aDhsTrGUpgdT/812719.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT TENNIS FHD" tvg-logo="http://astrill.today:80/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qOVEOOzPVlmFbCFZ8m6PDGydRqhOw4aAN6ZdP8C4Zp521rTTGjUn-QxLUL3trIKZnc.png" ,ZA SUPERSPORT TENNIS FHD
-http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/1045115.ts
+http://185.233.16.111:80/play/he1216002/aDhsTrGUpgdT/1045115.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL SD" tvg-logo="" ,US: TENNIS CHANNEL SD
-http://185.233.16.194:80/play/he1216002/aDhsTrGUpgdT/988242.ts
+http://185.233.16.111:80/play/he1216002/aDhsTrGUpgdT/988242.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|.ESP.|_M+GOLF red" tvg-logo="" ,|.ESP.|_M+GOLF red
