@@ -16,9 +16,15 @@ http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1055696.ts
 #EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1055004.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 24/7 FHD" tvg-logo="" ,UFC FIGHT PASS 24/7 FHD
+http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/786299.ts
+
 #EXTINF:-1 tvg-id="Discovery" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" ,ES: DISCOVERY CHANNEL HD
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/859786.ts
 
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA HD" tvg-logo="https://miguia.tv/channels/big_131.png" ,ES: ODISEA HD
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/825201.ts
+
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
+http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/812719.ts
 
