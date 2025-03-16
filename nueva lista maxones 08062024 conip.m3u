@@ -5,16 +5,19 @@ http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/290349.ts
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/290352.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: CHANNEL TENNIS HD" tvg-logo="" ,ES: CHANNEL TENNIS HD
-http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1053197.ts
+http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/538753.ts
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT: SUPER TENNIS HD" ,IT: SUPER TENNIS HD
-http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1034265.ts
+http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1034257.ts
 
 #EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-name="IT: SKY SPORT TENNIS FHD" tvg-logo="" ,IT: SKY SPORT TENNIS FHD
-http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1055696.ts
+http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/812719.ts
 
 #EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" ,DE: SKY SPORT TENNIS HD
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/1055004.ts
+
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="NL: ZIGGO SPORT TENNIS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/ziggo_sport_nl_extra_1.png" ,NL: ZIGGO SPORT TENNIS FHD
+http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/790550.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 24/7 FHD" tvg-logo="" ,UFC FIGHT PASS 24/7 FHD
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/786299.ts
@@ -27,4 +30,5 @@ http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/825201.ts
 
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA SD" tvg-logo="https://miguia.tv/channels/big_92.png" ,ES: HISTORIA SD
 http://a_ver_si.ngrep.xyz:80/live/Luna009/du7j3ufpWxQ/321262.ts
+
 
