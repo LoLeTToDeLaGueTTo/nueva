@@ -1,8 +1,8 @@
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|ES| Eurosport 1 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/eurosport.png" ,|ES| Eurosport 1 HD
-http://kroozott.xyz:80/Jose123/Jose123/663583
+#EXTINF:-1 tvg-id="0" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" ,ES: EUROSPORT 1
+http://test.norpoqq.xyz:8080/591698066881121/21737732162779/5607
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|ES| Eurosport 2 HD" tvg-logo="https://logos.mypanel.one/nemesislogos/saqlogo/spain%203d%20logo/eurosport.png" ,|ES| Eurosport 2 HD
-http://kroozott.xyz:80/Jose123/Jose123/663581
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" ,ES: EUROSPORT 2
+http://test.norpoqq.xyz:8080/591698066881121/21737732162779/5608
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosportnorge.no" tvg-name="NO: Eurosport Norge HD" tvg-logo="https://logo.iptveditor.com/eurosportnorge.png" ,NO: Eurosport Norge HD
 http://kroozott.xyz:80/Jose123/Jose123/4666
@@ -43,5 +43,5 @@ http://kroozott.xyz:80/Jose123/Jose123/3756
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" ,UFC FIGHT PASS
 http://kroozott.xyz:80/Jose123/Jose123/276831
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|ES| Discovery Channel" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" ,|ES| Discovery Channel
-http://kroozott.xyz:80/Jose123/Jose123/663164
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" ,ES: DISCOVERY
+http://test.norpoqq.xyz:8080/591698066881121/21737732162779/5594
