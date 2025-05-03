@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" ,EUROSPORT 1 HD
-http://2025.odin55.xyz:8080/live/NWA8WeUxuA/3Zh97q9pzvgs/5858.ts
+#EXTINF:-1 xui-id="389" tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 HD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_eurosport_nuevo.jpg" ,EUROSPORT 1 HD
+https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRpQtyj233c7sqIiuqlmSJtM
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="" ,EUROSPORT 2 
-http://2025.odin55.xyz:8080/live/NWA8WeUxuA/3Zh97q9pzvgs/5857.ts
+EXTINF:-1 xui-id="392" tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EUROSPORT 2 HD
+https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRojuMFwg1kgPqSZOe9H7zPY
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosportnorge.no" tvg-name="NO: Eurosport Norge HD" tvg-logo="https://logo.iptveditor.com/eurosportnorge.png" ,NO: Eurosport Norge HD
 http://kroozott.xyz:80/Jose123/Jose123/4666
@@ -43,8 +43,8 @@ http://kroozott.xyz:80/Jose123/Jose123/3756
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" ,UFC FIGHT PASS
 http://kroozott.xyz:80/Jose123/Jose123/276831
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" ,DISCOVERY
-http://2025.odin55.xyz:8080/live/NWA8WeUxuA/3Zh97q9pzvgs/5886.ts
+#EXTINF:-1 xui-id="536" tvg-id="DISCOVERY" tvg-name="DISCOVERY  HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-color/picon/1_0_1_772F_416_1_C00000_0_0_0.png" ",DISCOVERY  HD
+https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRuz7OUyVvzgWogBz1f7wFmc
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" ,CANAL ODISEA
-http://2025.odin55.xyz:8080/live/NWA8WeUxuA/3Zh97q9pzvgs/5843.ts
+#EXTINF:-1 xui-id="533" tvg-id="CANAL ODISEA" tvg-name="ODISEA HD" tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" ,ODISEA HD
+https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRrLzVoLOWv6ZT45F1vLZ3a8
