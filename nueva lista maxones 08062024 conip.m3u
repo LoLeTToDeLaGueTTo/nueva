@@ -1,50 +1,35 @@
-#EXTINF:-1 xui-id="389" tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 HD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_eurosport_nuevo.jpg" ,EUROSPORT 1 HD
-https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRpQtyj233c7sqIiuqlmSJtM
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" ,ES: EUROSPORT 1
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/281
 
-EXTINF:-1 xui-id="392" tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" ,EUROSPORT 2 HD
-https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRojuMFwg1kgPqSZOe9H7zPY
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" ,ES: EUROSPORT 2
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/282
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosportnorge.no" tvg-name="NO: Eurosport Norge HD" tvg-logo="https://logo.iptveditor.com/eurosportnorge.png" ,NO: Eurosport Norge HD
-http://kroozott.xyz:80/Jose123/Jose123/4666
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS" tvg-logo="https://docdog.top/logo/countries/italy/super-tennis-it.png" ,IT: SUPER TENNIS
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/1196
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.se" tvg-name="SE: Eurosport 1 HD" tvg-logo="https://logo.iptveditor.com/eurosport1.png" ,SE: Eurosport 1 HD
-http://kroozott.xyz:80/Jose123/Jose123/303
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png" ,IT: SKY SPORT TENNIS
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/1191
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.se" tvg-name="SE: Eurosport 2 HD" tvg-logo="https://logo.iptveditor.com/eurosport2.png" ,SE: Eurosport 2 HD
-http://kroozott.xyz:80/Jose123/Jose123/302
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="DE: Sky Sport Tennis" tvg-logo="https://docdog.top/logo/countries/germany/sky-sport-tennis-it.png" ,DE: Sky Sport Tennis
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/1386
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" ,UK: TNT Sport 1 FHD
-http://kroozott.xyz:80/Jose123/Jose123/276900
+#EXTINF:-1 tvg-id="" tvg-name="AF: VIP SUPERSPORT TENNIS" tvg-logo="https://docdog.top/logo/countries/africa/supersporttennis.png" ,AF: VIP SUPERSPORT TENNIS
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/4437
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" ,UK: TNT Sport 2 HD
-http://kroozott.xyz:80/Jose123/Jose123/276898
+#EXTINF:-1 tvg-id="" tvg-name="SAF: SuperSport Tennis FHD" tvg-logo="" ,SAF: SuperSport Tennis FHD
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/127925
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" ,UK: TNT Sport 3 HD
-http://kroozott.xyz:80/Jose123/Jose123/276895
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP TENNIS CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/tennischannel.png" ,USA: VIP TENNIS CHANNEL
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/5674
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" ,UK: TNT Sport 4 FHD
-http://kroozott.xyz:80/Jose123/Jose123/276893
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP UFC FIGHT NIGHT PASS" tvg-logo="https://docdog.top/logo/countries/uk/ufcfightpass.png" ,UK: VIP UFC FIGHT NIGHT PASS
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/1736
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tennischannel.us" tvg-name="USA Tennis Channel" tvg-logo="https://logo.iptveditor.com/tennischannel.png" ,USA Tennis Channel
-http://kroozott.xyz:80/Jose123/Jose123/841
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP UFC CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/ufctv.png" ,USA: VIP UFC CHANNEL
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/5548
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tennischannelplus2.us" tvg-name="USA Tennis Channel  2" tvg-logo="https://s9.gifyu.com/images/SUr1P.png" ,USA Tennis Channel  2
-http://kroozott.xyz:80/Jose123/Jose123/328632
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" ,ES: DISCOVERY
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/708
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" ,UK: Sky Sports Tennis HD
-http://kroozott.xyz:80/Jose123/Jose123/318044
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysporttennis.de" tvg-name="|DE| Sky Sport Tennis ᴴᴰ" tvg-logo="http://138.199.27.237:8080/GERMANY/SKYSPORTTENNIS.png" ,|DE| Sky Sport Tennis ᴴᴰ
-http://kroozott.xyz:80/Jose123/Jose123/662483
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fightnetwork.us" tvg-name="CA Fight Network" tvg-logo="https://img.favpng.com/10/20/2/fight-network-boxing-television-ufc-129-st-pierre-vs-shields-logo-png-favpng-j0dcjnVEBXC4RSy5LLCS2mUuM.jpg" ,CA Fight Network
-http://kroozott.xyz:80/Jose123/Jose123/3756
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" ,UFC FIGHT PASS
-http://kroozott.xyz:80/Jose123/Jose123/276831
-
-#EXTINF:-1 xui-id="536" tvg-id="DISCOVERY" tvg-name="DISCOVERY  HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-color/picon/1_0_1_772F_416_1_C00000_0_0_0.png" ",DISCOVERY  HD
-https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRuz7OUyVvzgWogBz1f7wFmc
-
-#EXTINF:-1 xui-id="533" tvg-id="CANAL ODISEA" tvg-name="ODISEA HD" tvg-logo="https://www.formulatv.com/images/noticias/55600/55629/1_d8fe9d8dd9.jpg" ,ODISEA HD
-https://tvdegarrafon.site:2096/play/uVzywvS1AzeCxJCF85tbRrLzVoLOWv6ZT45F1vLZ3a8
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" ,ES: ODISEA
+http://vipgerretger.top:8080/VIP0120169147472507/21691474725/710
