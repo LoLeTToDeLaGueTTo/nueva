@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/7/3/c/73cb983ea5a5cdf38108f2f269bbc7e0_icon.png" group-title="|ES| ✪ TDT/AUTONOMICOS",|ES| PLUS | GH 20: Directo 24h 1
-http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1787663&extension=ts
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1787663&extension=ts
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/7/3/c/73cb983ea5a5cdf38108f2f269bbc7e0_icon.png" group-title="|ES| ✪ TDT/AUTONOMICOS",|ES| PLUS | GH 20: Directo 24h 2
 http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1787662&extension=ts
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SPAIN/LA1.png" group-title="|ES| ✪ TDT/AUTONOMICOS",|ES| La 1 (DVB)
