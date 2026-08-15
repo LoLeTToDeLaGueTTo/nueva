@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TEN FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TEN FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975893.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EWTN FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975881.ts
-#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - SURF CHANNEL FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - SURF CHANNEL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975892.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FDF FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - FDF FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975883.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL MÁLAGA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662801.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - APUNT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/330539.ts
-#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CLASSICA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CLASSICA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662016.ts
-#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CAZAVISION HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CAZAVISION HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061203.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LANCELOT TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662796.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELESUR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/690731.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662804.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELEVISIÓN DE GALICIA AMÉRICA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662786.ts
@@ -33,57 +33,57 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76703.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662798.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - SOPHIA TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662788.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975871.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21360.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 FHD◉
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 FHD◉
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21367.ts
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La2.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 FHD◉
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 FHD◉
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21366.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANTENA 3 FHD◉
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 FHD◉
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21364.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUATRO HEVC ◉
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO HEVC ◉
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21363.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUATRO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061213.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELECINCO HD ◉
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO HD ◉
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21362.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELECINCO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061212.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA FHD◉
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA FHD◉
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21365.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061211.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1140842.ts
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadridTV.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/977974.ts
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadridTV.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029281.ts
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadridTV.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061343.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BETIS TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029700.ts
-#EXTINF:-1 tvg-id="ETB1.TV" tvg-name="ETB1.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1023790.ts
-#EXTINF:-1 tvg-id="ETB2.TV" tvg-name="ETB2.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029431.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCÍA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCÍA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21329.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCÍA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCÍA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027568.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA 2 HD 
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA 2 HD 
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061352.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975887.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA HD 
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA HD 
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061349.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061350.ts
-#EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECETV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECETV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975894.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALAN HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALAN HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/309442.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NEGOCIOS TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061257.ts
@@ -93,9 +93,9 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975878.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061250.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DBIKE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061251.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975882.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027567.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EL CONFEDENCIAL TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061258.ts
@@ -107,63 +107,63 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061259.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061365.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - El PAIS TV HD 
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061236.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ AUTONOMICOS",ES - TV3 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975895.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ AUTONOMICOS",ES - TV3 HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027514.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - TELE MADRID FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE MADRID FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061348.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - 7 ANDALUCIA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 7 ANDALUCIA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029384.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - ANDALUCIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANDALUCIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029367.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - CMT FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMT FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975877.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ AUTONOMICOS",ES - TV GALICIA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975884.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ AUTONOMICOS",ES - TV GALICIA HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363628.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ AUTONOMICOS",ES - TV GALICIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/499925.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - PTV MALAGA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - PTV MALAGA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975890.ts
-#EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="TeleMadrid.es" group-title="|ES| ✪ AUTONOMICOS",ES - TELEMADRID HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELEMADRID HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/330538.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - TV MELILLA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV MELILLA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/690732.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - TVE INTERNACIONAL HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TVE INTERNACIONAL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/326270.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - TVE INTERNACIONAL SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TVE INTERNACIONAL SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21359.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - POPULAR TV MELILLA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - POPULAR TV MELILLA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662789.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - ONDA CADIZ HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ONDA CADIZ HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027516.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - CANAL DOÑANA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL DOÑANA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027500.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - DIEZ TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIEZ TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027499.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - EL TORO TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EL TORO TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1053037.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - M95 MARBELLA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M95 MARBELLA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027504.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - ALTERNATIVA TV SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ALTERNATIVA TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027517.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - TUYA LA JANDA TV SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TUYA LA JANDA TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027501.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - TELEARANDA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELEARANDA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027515.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - INTERCOMARCAL TV
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - INTERCOMARCAL TV
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027519.ts
-#EXTINF:-1 group-title="|ES| ✪ AUTONOMICOS",ES - 7RM
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 7RM
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1346372.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - NAT GEO HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026842.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - NAT GEO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21284.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - NAT WILD HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NAT WILD HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026843.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - NAT WILD HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NAT WILD HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21282.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - NAT GEO WILD SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21283.ts
@@ -177,19 +177,19 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061254.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662009.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - ODISEA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061253.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - BUENVIAJE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BUENVIAJE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061362.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - BUENVIAJE SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BUENVIAJE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061363.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - AMC BREAK FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC BREAK FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026513.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - AMC BREAK HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC BREAK HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061233.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - AMC SELEKT TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - AMC SELEKT TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061221.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - DMAX FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DMAX FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/325838.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - DMAX HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DMAX HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061361.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES -  M. DOCUMENTALES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027427.ts
@@ -197,29 +197,29 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027427.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662017.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CRIMEN Y INVES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21325.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ DOCUMENTALES",ES - CANAL 24 HORAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL 24 HORAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21361.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CANAL ORBE 21
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL ORBE 21
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029509.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ DOCUMENTALES",ES - TVGA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TVGA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1124013.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029389.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA TV HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA TV HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662007.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21355.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA TV SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061356.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA CAZA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA CAZA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061357.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA CAZA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA CAZA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061359.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA 100% PESCA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA 100% PESCA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029277.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA 100% PESCA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA 100% PESCA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029278.ts
-#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - IBERALIA PESCA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA PESCA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061360.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CAZA Y PESCA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662005.ts
@@ -235,61 +235,61 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662011.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662013.ts
 #EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CANAL DECASA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662014.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 4K/UHD
+#EXTINF:-1 group-title="|ES| ✪ SPAINS 4K",ES - LA 1 4K/UHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359899.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359900.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359901.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359902.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 1 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359903.ts
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La2.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359904.ts
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La2.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359905.ts
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La2.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359906.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24H TVE FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24H TVE FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359907.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24H TVE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24H TVE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359908.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24H TVE SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24H TVE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359909.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANTENA 3 HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359910.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANTENA 3 FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359911.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANTENA 3 HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359912.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANTENA 3 SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359913.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ANTENA 3 INT.
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 INT.
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359914.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUATRO FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359916.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUATRO HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359915.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUATRO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359917.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUATRO SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359918.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELECINCO FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359920.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELECINCO HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359919.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELECINCO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359921.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELECINCO SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359922.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359924.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359923.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359925.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA SEXTA SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359926.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - SEVILLA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359927.ts
@@ -299,49 +299,49 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359928.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359929.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - R. MADRID TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359930.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359931.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359932.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR ANDALUCIA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359933.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV GALICIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359934.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CASTILLA LA MANCHA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359935.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CASTILLA LA MANCHA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359936.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA SAT FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA SAT FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359937.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA SAT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EXTREMADURA SAT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359938.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359939.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359940.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359941.ts
-#EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359942.ts
-#EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359943.ts
-#EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359944.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALUÑA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALUÑA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359945.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALUÑA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALUÑA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359946.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALUÑA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CATALUÑA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359947.ts
-#EXTINF:-1 tvg-id="CMM.TV" tvg-name="CMM.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMM FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMM FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359948.ts
-#EXTINF:-1 tvg-id="CMM.TV" tvg-name="CMM.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMM HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMM HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359949.ts
-#EXTINF:-1 tvg-id="CMM.TV" tvg-name="CMM.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMM SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CMM SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359950.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359951.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 24 HORAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359952.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DBIKE FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359953.ts
@@ -349,13 +349,13 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359953.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359954.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DBIKE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359955.ts
-#EXTINF:-1 tvg-id="ETB1.TV" tvg-name="ETB1.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359956.ts
-#EXTINF:-1 tvg-id="ETB2.TV" tvg-name="ETB2.TV" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359957.ts
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="AragonTV.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ARAGON TV
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ARAGON TV
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359958.ts
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="AragonTV.es" group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ARAGON TV INT SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ARAGON TV INT SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359959.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - VINX TV ASTURIAS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359960.ts
@@ -383,341 +383,341 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359970.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359971.ts
 #EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL PARLAMENTO SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359972.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV ACCION ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - RAKUTEN TV ACCION ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359974.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV CINE ESPANOL ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV CINE ESPANOL ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359975.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV CRIME SERIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - RAKUTEN TV CRIME SERIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359976.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV DRAMA MOVIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV DRAMA MOVIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359977.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV FAMILY MOVIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV FAMILY MOVIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359978.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV ROMANCE MOVIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359979.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV SCI-FI MOVIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV SCI-FI MOVIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359980.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV THRILLER MOVIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359981.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - RAKUTEN TV TOP MOVIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RAKUTEN TV TOP MOVIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359982.ts
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La2.es" group-title="|ES| ✪ RAKUTEN TV",ES - LA 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359983.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ RAKUTEN TV",ES - LA SEXTA FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359984.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - 50 TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 50 TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359985.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - 8TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 8TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359986.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - A & E FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - A & E FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359987.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - ALCARRIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ALCARRIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359988.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - AMC FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - AMC FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359989.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - ANIMAL PLANET HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - ANIMAL PLANET HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359990.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ RAKUTEN TV",ES - ANTENA 3 FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359991.ts
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="AragonTV.es" group-title="|ES| ✪ RAKUTEN TV",ES - ARAGON TV INT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ARAGON TV INT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359992.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - AXN FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AXN FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359993.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - AZ CORAZÓN HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - AZ CORAZÓN HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359994.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - BBC NEWS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BBC NEWS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359995.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - BE MAD FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - BE MAD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359996.ts
-#EXTINF:-1 tvg-id="Beteve.TV" tvg-name="Beteve.TV" group-title="|ES| ✪ RAKUTEN TV",ES - BETEVÉ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BETEVÉ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359997.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - BETIS TV
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BETIS TV
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359998.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - BLAZE HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - BLAZE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1359999.ts
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing.es" group-title="|ES| ✪ RAKUTEN TV",ES - BOING FHD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - BOING FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360000.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CALLE 13 FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CALLE 13 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360001.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ RAKUTEN TV",ES - CANAL EXTREMADURA
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL EXTREMADURA
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360002.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ RAKUTEN TV",ES - CANAL EXTREMADURA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL EXTREMADURA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360003.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CANAL MALAGA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL MALAGA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360004.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ RAKUTEN TV",ES - CANAL SUR FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CANAL SUR FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360005.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CARTOON NETWORK HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CARTOON NETWORK HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360006.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CINEAR FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CINEAR FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360007.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CINECANAL FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CINECANAL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360008.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CINEMAX FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CINEMAX FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360009.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - CINÉ FRIKI  FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CINÉ FRIKI  FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360010.ts
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan.es" group-title="|ES| ✪ RAKUTEN TV",ES - CLAN HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CLAN HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360011.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - COMEDY CENTRAL HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - COMEDY CENTRAL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360012.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ RAKUTEN TV",ES - CUATRO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360013.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DISCOVERY H&H FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - DISCOVERY H&H FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360014.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DISCOVERY KIDS FHD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DISCOVERY KIDS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360015.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DISCOVERY KIDS HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DISCOVERY KIDS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360016.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DISCOVERY TURBO FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - DISCOVERY TURBO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360017.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DISCOVERY TURBO HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - DISCOVERY TURBO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360018.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DISNEY CHANNEL HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DISNEY CHANNEL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360019.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ RAKUTEN TV",ES - DIVINITY FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360020.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - DKISS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DKISS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360021.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - EL GOURMET FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EL GOURMET FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360022.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - EL PAIS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EL PAIS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360023.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - ELTORO TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ELTORO TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360024.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ RAKUTEN TV",ES - ENERGY FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ENERGY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360025.ts
-#EXTINF:-1 tvg-id="ETB1.TV" tvg-name="ETB1.TV" group-title="|ES| ✪ RAKUTEN TV",ES - ETB 1
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 1
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360026.ts
-#EXTINF:-1 tvg-id="ETB2.TV" tvg-name="ETB2.TV" group-title="|ES| ✪ RAKUTEN TV",ES - ETB 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ETB 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360027.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - FILM & ARTS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FILM & ARTS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360028.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - FILM & CO FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FILM & CO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360029.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - FLAMENCO AUDITORIO FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FLAMENCO AUDITORIO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360030.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - FOOD NETWORK FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FOOD NETWORK FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360031.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - FX FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FX FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360032.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - GORMITI & FRIENDS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GORMITI & FRIENDS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360033.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - HOME & HEALTH DISCOVERY FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - HOME & HEALTH DISCOVERY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360034.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - IB3 GLOBAL
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IB3 GLOBAL
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360035.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - IBERALIA
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IBERALIA
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360036.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - INVESTIGATION DISCOVERY FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - INVESTIGATION DISCOVERY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360037.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - INVESTIGATION DISCOVERY HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - INVESTIGATION DISCOVERY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360038.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - LA LIGA 1 FHD
+#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - LA LIGA 1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360039.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - LA LIGA 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - LA LIGA 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360040.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ RAKUTEN TV",ES - LA OTRA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LA OTRA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360041.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - LAS SIETE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LAS SIETE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360042.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - MEGA FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEGA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360043.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - MOVISTAR PLUS +2 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR PLUS +2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360044.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - MUNDO SERIES HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MUNDO SERIES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360049.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - NEGOCIOS TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NEGOCIOS TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360050.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - NICK JR HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - NICK JR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360051.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - NICKELODEON HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - NICKELODEON HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360052.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - ODISEA FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - ODISEA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360053.ts
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadridTV.es" group-title="|ES| ✪ RAKUTEN TV",ES - REAL MADRID TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - REAL MADRID TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360054.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - SOMOS FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SOMOS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360055.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - SONY CHANNEL FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - SONY CHANNEL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360056.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - SONY MOVIES FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SONY MOVIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360057.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - STUDIO UNIVERSAL FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - STUDIO UNIVERSAL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360058.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - SUNDANCE TV FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SUNDANCE TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360059.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - SYFY HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SYFY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360060.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TCM HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - TCM HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360061.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TELE CINCO FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE CINCO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360062.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TELE DEPORTE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE DEPORTE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360063.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TELE MADRID HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE MADRID HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360064.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TELE MADRID INTERNACIONAL HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE MADRID INTERNACIONAL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360065.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - THEATER DISCOVERY FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - THEATER DISCOVERY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360066.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TL NOVELAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TL NOVELAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360067.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TLC FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TLC FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360068.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TNT NOVELAS FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - TNT NOVELAS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360069.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TNT NOVELAS HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - TNT NOVELAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360070.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TNT SERIES FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - TNT SERIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360071.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TNT SERIES HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - TNT SERIES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360072.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TPA 7 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TPA 7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360073.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TPA 8 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TPA 8 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360074.ts
-#EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece.es" group-title="|ES| ✪ RAKUTEN TV",ES - TRECE TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TRECE TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360075.ts
-#EXTINF:-1 tvg-id="TVCanaria.es" tvg-name="TVCanaria.es" group-title="|ES| ✪ RAKUTEN TV",ES - TV CANARIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV CANARIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360076.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ RAKUTEN TV",ES - TV3 CAT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TV3 CAT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360077.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - TVE INT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TVE INT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360078.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ RAKUTEN TV",ES - TVG 2
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TVG 2
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360079.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - WORLD DISCOVERY FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - WORLD DISCOVERY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360080.ts
-#EXTINF:-1 group-title="|ES| ✪ RAKUTEN TV",ES - A TRES SERIES FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - A TRES SERIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360081.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GH 24H 1 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GH 24H 1 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360083.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GH 24H 2 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GH 24H 2 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360084.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GH 24H 1 + ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GH 24H 1 + ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360085.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GH 24H 2 + ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GH 24H 2 + ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360086.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360087.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360088.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360089.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - FACTOR A DE FICCIN  ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FACTOR A DE FICCIN  ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360090.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - ENERGY ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ENERGY ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360091.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - BEDMAD ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BEDMAD ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360092.ts
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - BOING ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - BOING ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360093.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - EN LA CALLE ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - EN LA CALLE ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360094.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - VIAJES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - VIAJES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360095.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LQSA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - LQSA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360096.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - COMEDIA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - COMEDIA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360097.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TOP SERIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360098.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MTMAD ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360099.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO 35 AÑOS DE ANTENA 3 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO 35 AÑOS DE ANTENA 3 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360101.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO ANTENA 3 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO ANTENA 3 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360102.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO AQUÍ NO HAY QUIÉN VIVA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO AQUÍ NO HAY QUIÉN VIVA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360103.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO ATRESERIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360104.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO ATRESPLAYER PREMIUM ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO ATRESPLAYER PREMIUM ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360105.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO COMEDIA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO COMEDIA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360106.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO EL CLUB DE LA COMEDIA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO EL CLUB DE LA COMEDIA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360107.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO EL HORMIGUERO ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO EL HORMIGUERO ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360108.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO EQUIPO DE INVESTIGACIÓN ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO EQUIPO DE INVESTIGACIÓN ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360109.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO FLOOXER ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO FLOOXER ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360110.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO FOQ ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO FOQ ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360111.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO KIDZ ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO KIDZ ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360112.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO LASEXTA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360113.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO MEGA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360114.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO MENTES INQUIETAS ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIRECTO MENTES INQUIETAS ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360115.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO MULTICINE ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - DIRECTO MULTICINE ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360116.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO NEOX ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO NEOX ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360117.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO NOVA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIRECTO NOVA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360118.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  A3 SERIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360120.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  MEGA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360121.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NEOX FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NEOX FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360122.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NOVA FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NOVA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360123.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  BEMAD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360124.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  FDF FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  FDF FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360125.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  ENERGY FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  ENERGY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360126.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DIVINITY FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DIVINITY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360127.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  TEN FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360128.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DKISS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  DKISS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360129.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  A3 SERIES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360131.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  MEGA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360132.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NEOX HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NEOX HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360133.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NOVA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NOVA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360134.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  BEMAD HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360135.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  FDF HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  FDF HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360136.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  ENERGY HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  ENERGY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360137.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DIVINITY HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DIVINITY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360138.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  CALLE 13 HD VOS
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES -  CALLE 13 HD VOS
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360139.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  A3 SERIES SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360141.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  MEGA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360142.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NEOX SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NEOX SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360143.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NOVA SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  NOVA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360144.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  BEMAD SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360145.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  FDF SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  FDF SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360146.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  ENERGY SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  ENERGY SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360147.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DIVINITY SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DIVINITY SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360148.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  TEN SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360149.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  DKISS SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  DKISS SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360150.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES| M+ SERIES INFO ᴴᴰ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360152.ts
@@ -781,83 +781,83 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360181.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360182.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - ACONTRA+ CINE ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360184.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - AMC ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360185.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC BREAK ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360186.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC CRIME ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - AMC CRIME ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360187.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ CINEMA",ES - ANTENA 3 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360188.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - ATRESERIES ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ATRESERIES ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360189.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - BE MAD ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - BE MAD ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360190.ts
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing.es" group-title="|ES| ✪ CINEMA",ES - BOING ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - BOING ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360191.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CANAL COCINA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CANAL COCINA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360192.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CANAL HOLLYWOOD ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360193.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - CNN ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CNN ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360194.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ CINEMA",ES - CUATRO ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CUATRO ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360195.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - DARK ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360196.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - DECASA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - DECASA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360197.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ CINEMA",ES - DIVINITY ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360198.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ CINEMA",ES - E.ENERGY ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - E.ENERGY ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360199.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - EUROSPORT 1 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 1 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360200.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ CINEMA",ES - FDF ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - FDF ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360201.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - HISTORIA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - HISTORIA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360202.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - LALIGA HYPERMOTION TV ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ LALIGA HYPERMOTION",ES - LALIGA HYPERMOTION TV ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360203.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - LALIGA HYPERMOTION TV 2 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ LALIGA HYPERMOTION",ES - LALIGA HYPERMOTION TV 2 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360204.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - LALIGA HYPERMOTION TV 3 ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ LALIGA HYPERMOTION",ES - LALIGA HYPERMOTION TV 3 ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360205.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - LASEXTA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LASEXTA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360206.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MEGA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEGA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360207.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MEZZO ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MEZZO ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360208.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MEZZO LIVE ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MEZZO LIVE ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360209.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - NBA TV INTERNATIONAL ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ NBA",ES - NBA TV INTERNATIONAL ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360210.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - NEGOCIOS TV ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NEGOCIOS TV ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360211.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ CINEMA",ES - NEOX ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360212.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - NFL NETWORK ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NFL NETWORK ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360213.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ CINEMA",ES - NOVA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NOVA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360214.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - ODISEA ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - ODISEA ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360215.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - RED BULL TV ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RED BULL TV ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360216.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SOMOS ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SOMOS ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360217.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SUNDANCE TV ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360218.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco.es" group-title="|ES| ✪ CINEMA",ES - TELECINCO ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELECINCO ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360219.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - VINTV ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - VINTV ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360220.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - VIZNER TV ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - VIZNER TV ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360221.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - XTRM ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360222.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - BUEN VIAJE ᴿᴬᵂ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BUEN VIAJE ᴿᴬᵂ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360223.ts
 #EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - TV FOOTBALL PPV 1
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360225.ts
@@ -1259,79 +1259,79 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360423.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360424.ts
 #EXTINF:-1 group-title="|ES| ✪ VIX|TUDN",ES - VIX 100 PPV
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1360425.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1140840.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1140841.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - LA SEXTA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1138400.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21281.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061209.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NEOX SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061210.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - NOVA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NOVA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/43001.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - NOVA SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NOVA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061208.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SOMOS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029426.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SOMOS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/276945.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SUNDANCE TV HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SUNDANCE TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018482.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SUNDANCE TV SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SUNDANCE TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061231.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - XTRM FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - XTRM FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029714.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - XTRM HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - XTRM HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018484.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - XTRM SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - XTRM SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061222.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1138402.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CANAL COCINA HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CANAL COCINA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027428.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DARK HEVC
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - DARK HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061223.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DARK HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - DARK HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1054194.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DARK SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - DARK SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061224.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - AMC BREAK FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC BREAK FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1084110.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - AMC BREAK HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AMC BREAK HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1084111.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - AMC CRIME HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - AMC CRIME HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029289.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - AMC CRIME SD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - AMC CRIME SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1145326.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - AMC HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - AMC HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21340.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - CANAL DECASA HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - CANAL DECASA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21331.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ENFAMILIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ENFAMILIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029280.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEGA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061364.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEGA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/64740.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEZZO FHD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MEZZO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061255.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEZZO LIVE HEVC
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MEZZO LIVE HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662021.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEZZO LIVE HD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MEZZO LIVE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21289.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MEZZO LIVE SD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MEZZO LIVE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061256.ts
-#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MTV ESPANA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV ESPANA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662019.ts
-#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MTV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/345645.ts
-#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - CADENA DIAL
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CADENA DIAL
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027578.ts
-#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - DIGITAL HITS FM
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DIGITAL HITS FM
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027580.ts
 #EXTINF:-1 group-title="|ES| ✪ DAZN ACB",ES - DAZN ACB 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1333625.ts
@@ -1351,13 +1351,13 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1349019.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1349020.ts
 #EXTINF:-1 group-title="|ES| ✪ DAZN ACB",ES - DAZN ACB 9 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1349021.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 1 BAR FHD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 1 BAR FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029290.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 1 BAR HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 1 BAR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029291.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 2 BAR FHD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 2 BAR FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029292.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 2 BAR HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 2 BAR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029293.ts
 #EXTINF:-1 group-title="|ES| ✪ FORMULA 1",ES - DAZN F1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1124014.ts
@@ -1367,11 +1367,11 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1123111.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975897.ts
 #EXTINF:-1 group-title="|ES| ✪ FORMULA 1",ES - DAZN F1 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/216711.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ FORMULA 1",ES - DAZN FORMULA 1 HEVC
+#EXTINF:-1 group-title="|ES| ✪ FORMULA 1",ES - DAZN FORMULA 1 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027196.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ FORMULA 1",ES - DAZN FORMULA 1 HD
+#EXTINF:-1 group-title="|ES| ✪ FORMULA 1",ES - DAZN FORMULA 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027197.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ FORMULA 1",ES - DAZN FORMULA 1 SD
+#EXTINF:-1 group-title="|ES| ✪ FORMULA 1",ES - DAZN FORMULA 1 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591077.ts
 #EXTINF:-1 group-title="|ES| ✪ MOTO GP",ES - DAZN MOTOGP FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1389224.ts
@@ -1379,29 +1379,29 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1389224.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1389226.ts
 #EXTINF:-1 group-title="|ES| ✪ MOTO GP",ES - DAZN MOTOGP SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1389227.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL FHD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/309042.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL HEVC
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/619540.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027109.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975899.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 2 HEVC
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 2 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/309043.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 2 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027112.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 3 FHD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 3 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425148.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 3 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425149.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 3 SD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 3 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425150.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 4 FHD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 4 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425151.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 4 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425152.ts
-#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN MUNDIAL 4 SD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN MUNDIAL 4 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425153.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN LA LIGA 5 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425154.ts
@@ -1409,27 +1409,27 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425154.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425155.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - DAZN LA LIGA 5 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1425156.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 1 HEVC
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 1 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390105.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 1 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/141393.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 2 HEVC
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 2 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390106.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 2 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/141394.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 3 HEVC
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 3 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390107.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 3 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/216709.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 3 SD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 3 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061267.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 4 HEVC
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 4 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390108.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN 4 HD
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/216710.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN HD [ PREMIERELEAGUE ]
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN HD [ PREMIERELEAGUE ]
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026835.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - DAZN [ LIVEEVENT]
+#EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN [ LIVEEVENT]
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026836.ts
 #EXTINF:-1 group-title="|ES| ✪ DAZN EVENT",ES - DAZN PPV 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1324228.ts
@@ -1585,9 +1585,9 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1297138.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1297139.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA+ PPV",ES - LALIGA+ PPV 50
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1297140.ts
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan.es" group-title="|ES| ✪ NIÑOS",ES - CLAN TVE FHD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - CLAN TVE FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136049.ts
-#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - ENFAMILIA TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ENFAMILIA TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029279.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DREAMWORKS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/104876.ts
@@ -1601,13 +1601,13 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136214.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1017259.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - BABY TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21353.ts
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing.es" group-title="|ES| ✪ NIÑOS",ES - BOING FHD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - BOING FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1017262.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - CANAL PANDA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1017263.ts
-#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - RCN FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RCN FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029342.ts
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan.es" group-title="|ES| ✪ NIÑOS",ES - CLAN TVE HEVC
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - CLAN TVE HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136237.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DREAMWORKS HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136249.ts
@@ -1621,7 +1621,7 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136239.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136242.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - CANAL PANDA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136243.ts
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan.es" group-title="|ES| ✪ NIÑOS",ES - CLAN TVE HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - CLAN TVE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21357.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DREAMWORKS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018453.ts
@@ -1637,15 +1637,15 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1136229.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1017260.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - CANAL PANDA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21351.ts
-#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan.es" group-title="|ES| ✪ NIÑOS",ES - CLAN HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CLAN HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293753.ts
-#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - SUPER 3-33 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - SUPER 3-33 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293693.ts
-#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - TOON GOGGLES EN HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TOON GOGGLES EN HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293685.ts
-#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES  - TOON GOGGLES HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES  - TOON GOGGLES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293686.ts
-#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - DUCKTV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DUCKTV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293743.ts
 #EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - GOLD TV 24/7 | NINOS 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620993.ts
@@ -1675,35 +1675,35 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026523.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026522.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - AXN MOVIES SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061235.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - A TRES SERIES FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - A TRES SERIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029370.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - A TRES SERIES HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - A TRES SERIES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029287.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ CINEMA",ES - ANTENA 3 INTERNACIONAL FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ANTENA 3 INTERNACIONAL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029511.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - VEO7 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - VEO7 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1259660.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - VEO7 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - VEO7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1259659.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - VEO7 SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - VEO7 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1259658.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - WARNER FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - WARNER FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029275.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - WARNER HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - WARNER HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029274.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - WARNER SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - WARNER SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061228.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - WARNERBROS HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - WARNERBROS HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026526.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - WARNERBROS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - WARNERBROS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018481.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - ESCAPA TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ESCAPA TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029567.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - 40 Y 20 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - 40 Y 20 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029568.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - M.COMEDIA HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M.COMEDIA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026517.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - M.COMEDIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M.COMEDIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018475.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - COMEDY CENTRAL HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026530.ts
@@ -1713,11 +1713,11 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/73070.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061226.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - FOX HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026524.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - COSMO HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - COSMO HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026525.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - COSMO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - COSMO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21326.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - COSMO SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - COSMO SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061234.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - SYFY HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026527.ts
@@ -1737,391 +1737,391 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21333.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061225.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - HOLLYWOOD HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026529.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES -  A3 SERIES HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES -  A3 SERIES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/131162.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - BOM CINE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018452.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - BOM CINE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061230.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - BETEVE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BETEVE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21336.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - PARAMOUNT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018483.ts
 #EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - PARAMOUNT SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1145327.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - STAR CHANNEL HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - STAR CHANNEL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21344.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - STAR CHANNEL (FOX) SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - STAR CHANNEL (FOX) SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061227.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOL HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76690.ts
-#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - VH1 HD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - VH1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21276.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | BOM FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | BOM FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975876.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 |  ENDFAMILIA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 |  ENDFAMILIA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975880.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | HOLLIWOOD FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 | HOLLIWOOD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975885.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | TNT UHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | TNT UHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/625165.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX CINE + HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | NETFLIX CINE + HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620973.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX CINE HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | NETFLIX CINE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620974.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX DRAMA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 | NETFLIX DRAMA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620975.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX ESPAÑOL HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 | NETFLIX ESPAÑOL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620976.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX HISTORIA HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - GOLD TV 24/7 | NETFLIX HISTORIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620988.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX PELÍCULAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 | NETFLIX PELÍCULAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620990.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX SCI-FI HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 | NETFLIX SCI-FI HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620991.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX TELEVISION HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - GOLD TV 24/7 | NETFLIX TELEVISION HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620992.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 1 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620997.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620998.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 3 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620999.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 4 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621000.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 5 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 5 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621001.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 6 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 6 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621002.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 7 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621003.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 8 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 8 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621004.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 10 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 10 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621006.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 11 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 11 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621007.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 12 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 12 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621008.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 13 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 13 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621009.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 14 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 14 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621010.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 15 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 15 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621022.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 16 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 16 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621021.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 17 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 17 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621023.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 18 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 18 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621024.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 19 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 19 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621025.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 20 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 20 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621026.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 21 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 21 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621027.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 22 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 22 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621028.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 23 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 23 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621029.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 24 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 24 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/621030.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 1 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013456.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013457.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 3 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013458.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 4 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013459.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 5 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 5 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013460.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 6 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 6 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013461.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2020 1 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2020 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013462.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2020 2 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2020 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013463.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2020 3 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2020 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013464.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2020 4 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2020 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013465.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2020 5 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2020 5 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013466.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 1 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013467.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 2 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013468.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 3 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013469.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 4 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013470.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 6 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 6 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013472.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 7 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013473.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 8 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 8 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013474.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 9 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 9 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013475.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2021 10 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2021 10 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013476.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2022 1 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2022 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013499.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2022 2 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2022 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013500.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | PELICULAS 2022 3 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - GOLD TV 24/7 | PELICULAS 2022 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1013501.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - GOLD TV 24/7 | NETFLIX NINOS HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - GOLD TV 24/7 | NETFLIX NINOS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/620989.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - A PUNT GLOBAL HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - A PUNT GLOBAL HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293665.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - A PUNT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - A PUNT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293666.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - A PUNT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - A PUNT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293667.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - XTRM HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - XTRM HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293668.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - VOTV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - VOTV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293669.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TV RIPOLLES HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TV RIPOLLES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293671.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TVG SAT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TVG SAT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293672.ts
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="TVGAL.TV" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TVG HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TVG HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293673.ts
-#EXTINF:-1 tvg-id="TVCanaria.es" tvg-name="TVCanaria.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TV CANARIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TV CANARIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293674.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TV3 CAT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TV3 CAT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293675.ts
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3.TV" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TV3 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TV3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293676.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TUYA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TUYA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293677.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TRT WORLD HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TRT WORLD HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293678.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TRT ARABI HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TRT ARABI HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293679.ts
-#EXTINF:-1 tvg-id="Trece.es" tvg-name="Trece.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TRECE SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TRECE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293680.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TRACE URBAN SD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES TI - TRACE URBAN SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293681.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TRACE BRASIL SD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES TI - TRACE BRASIL SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293682.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TPA8 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TPA8 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293683.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TPA7 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TPA7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293684.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TELEVIGO HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TELEVIGO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293687.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TELESUR HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TELESUR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293688.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TELERIBERA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TELERIBERA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293689.ts
-#EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="TeleMadrid.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TELEMADRID HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TELEMADRID HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293690.ts
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - TELEDEPORTE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TELEDEPORTE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293691.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - TAC 12 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - TAC 12 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293692.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - SUNDANCE TV HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - SUNDANCE TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293694.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - SOMOS HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - SOMOS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293695.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RUNTIME THRILLER + TERROR HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RUNTIME THRILLER + TERROR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293696.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RUNTIME ROMANCE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RUNTIME ROMANCE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293697.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RUNTIME FAMILIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RUNTIME FAMILIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293698.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RUNTIME COMEDIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RUNTIME COMEDIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293699.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RUNTIME ACCION HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RUNTIME ACCION HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293700.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RUNTIME HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RUNTIME HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293701.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - RED BULL TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - RED BULL TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293702.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - QELLO CONCERTS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - QELLO CONCERTS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293703.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - PARTY TYME KARAOKE INT HD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES TI - PARTY TYME KARAOKE INT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293704.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - PARAMOUNT NETWORK HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - PARAMOUNT NETWORK HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293705.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ONDA CADIZ HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ONDA CADIZ HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293706.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ONDA ALGECIRAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ONDA ALGECIRAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293707.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ONDA15 TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ONDA15 TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293708.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ODISEA HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES TI - ODISEA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293709.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - OAN PLUS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - OAN PLUS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293710.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - NHK WORLD FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - NHK WORLD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293711.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - NEWSMAX TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - NEWSMAX TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293712.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - NESTING TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - NESTING TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293713.ts
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - NEOX FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - NEOX FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293714.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - MIJAS 3.40 TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - MIJAS 3.40 TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293715.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - MEZZO FHD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES TI - MEZZO FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293716.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - MEGA FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - MEGA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293717.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LaSexta.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA SEXTA HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - LA SEXTA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293718.ts
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA OTRA
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA OTRA
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293719.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA 8 MEDITERRANEO
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA 8 MEDITERRANEO
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293720.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA 7 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA 7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293721.ts
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La2.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293722.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA 1 NEUTRA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA 1 NEUTRA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293723.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293724.ts
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La1.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - LA 1 CATALUNA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - LA 1 CATALUNA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293725.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - IB3 GLOBAL
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - IB3 GLOBAL
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293726.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - IB3 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - IB3 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293727.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - HOLLYWOOD FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - HOLLYWOOD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293728.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - HISTORIA FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES TI - HISTORIA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293729.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - GROSS OUT TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - GROSS OUT TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293730.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - GCM TV
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - GCM TV
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293731.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - FRANCE 24 ES FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - FRANCE 24 ES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293732.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - FDF FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - FDF FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293733.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - FASHION TV FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - FASHION TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293734.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - EURONEWS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - EURONEWS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293735.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ETB BASQUE
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ETB BASQUE
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293736.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ETB2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ETB2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293737.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ETB1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ETB1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293738.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - ENERGY FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - ENERGY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293739.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - EL TORO TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - EL TORO TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293740.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - DEJATE DE HISTORIAS TV FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES TI - DEJATE DE HISTORIAS TV FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293741.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - DW EN ESPANOL FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - DW EN ESPANOL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293742.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - DKISS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - DKISS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293744.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - DIVINITY FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - DIVINITY FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293745.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - DECASA FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES TI - DECASA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293746.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - DARK HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - DARK HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293747.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CURRO JIMENEZ HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CURRO JIMENEZ HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293748.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CUBAVISION HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CUBAVISION HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293749.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - CUATRO HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - CUATRO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293750.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - COOKING PANDA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - COOKING PANDA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293751.ts
-#EXTINF:-1 tvg-id="CMM.TV" tvg-name="CMM.TV" group-title="|ES| ✪ TIVIFY GOLD",ES TI - CMM TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CMM TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293752.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL SUR FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL SUR FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293754.ts
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="CanalSurAndalucia.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL SUR ANDALUCIA
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL SUR ANDALUCIA
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293755.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL SIERRA DE CADIZ FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL SIERRA DE CADIZ FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293756.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL PARLAMENTO
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL PARLAMENTO
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293757.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL MALAGA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL MALAGA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293758.ts
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremadura.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL EXTREMADURA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL EXTREMADURA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293759.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL COCINA FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES TI - CANAL COCINA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293760.ts
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL 24 HORAS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL 24 HORAS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293761.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - CANAL 4 TELEVISIO HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - CANAL 4 TELEVISIO HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293762.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - BUEN VIAJE! FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - BUEN VIAJE! FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293763.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - BON DIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - BON DIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293764.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - BETIS TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - BETIS TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293765.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - BETEVE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - BETEVE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293766.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - BETEVE SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - BETEVE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293767.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - BBC WORLD NEWS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - BBC WORLD NEWS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293768.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AXN VOS FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - AXN VOS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293769.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AXN MOVIES VOS FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - AXN MOVIES VOS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293770.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AXN MOVIES FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - AXN MOVIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293771.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AXN FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - AXN FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293772.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AWE PLUS HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - AWE PLUS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293773.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ATRESERIES FHD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - ATRESERIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293774.ts
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="AragonTV.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - ARAGON TV INT HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ARAGON TV INT HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293775.ts
-#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="AragonTV.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - ARAGON TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ARAGON TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293776.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ARAGON HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ARAGON HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293777.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena3.es" group-title="|ES| ✪ TIVIFY GOLD",ES TI - ANTENA 3 HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES TI - ANTENA 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293778.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AMC FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - AMC FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293779.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AMC CRIME FHD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES TI - AMC CRIME FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293780.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AMC BREAK FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES TI - AMC BREAK FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293781.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AL JAZEERA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - AL JAZEERA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293782.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AL JAZEERA ARABIC FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - AL JAZEERA ARABIC FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293783.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - ALCARRIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - ALCARRIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293784.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - AFORTUNADAS TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - AFORTUNADAS TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293785.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - 101TV ANTEQUERA FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - 101TV ANTEQUERA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293786.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - 7 REGION DE MURCIA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - 7 REGION DE MURCIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293787.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - 4V TELEVISION BOLLULLOS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - 4V TELEVISION BOLLULLOS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293788.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES TI - 3/24 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES TI - 3/24 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1293789.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR CINE ESPANOL FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR CINE ESPANOL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/445026.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR CINE ESPANOL
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR CINE ESPANOL
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/445028.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  CINE FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  CINE FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026515.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  CINE SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  CINE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018459.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  CINE HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  CINE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018460.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR SERIES FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591069.ts
@@ -2135,123 +2135,123 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018476.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591063.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR SERIES 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591072.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ACCION FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ACCION FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591070.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  ACCION HEVC
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  ACCION HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026514.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ACCION HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ACCION HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591074.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ACCION SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ACCION SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390103.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR COMEDIA FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR COMEDIA FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390104.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR COMEDIA HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR COMEDIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591075.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR COMEDIA SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR COMEDIA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591066.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ESTRENOS FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ESTRENOS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591071.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ESTRENOS HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ESTRENOS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591076.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ESTRENOS SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ESTRENOS SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591067.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ESTRENOS 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ESTRENOS 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/268004.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029395.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  INDIE HEVC
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  INDIE HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026512.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  INDIE HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  INDIE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026511.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR INDIE SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR INDIE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061274.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR CLINT EASTWOOD FHD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR CLINT EASTWOOD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061273.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ELLAS #V HEVC
+#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - MOVISTAR ELLAS #V HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390115.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  ORIGINALES HEVC
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  ORIGINALES HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026510.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ORIGINALES HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ORIGINALES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/445029.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  ORIGINALES HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  ORIGINALES HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018457.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR ORIGINALES SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR ORIGINALES SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061270.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  DRAMA HEVC
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  DRAMA HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026516.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  DRAMA HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  DRAMA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018462.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2022 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2022 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027538.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2022 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2022 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027539.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2022 3 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2022 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027540.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027541.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027542.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 3 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027543.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 4 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027544.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 6 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 6 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027546.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 7 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027548.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 8 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 8 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027549.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 9 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 9 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027550.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2021 10 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2021 10 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027551.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2020 1 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2020 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027552.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2020 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2020 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027553.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2020 3 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2020 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027554.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2020 4 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2020 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027555.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR 2020 5 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR 2020 5 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027556.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR NINOS 1 HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - MOVISTAR NINOS 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027563.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR NINOS 2 HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - MOVISTAR NINOS 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027564.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR NINOS 3 HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - MOVISTAR NINOS 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027565.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR NINOS 4 HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - MOVISTAR NINOS 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027566.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR+ HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR+ HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/979324.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PELICULAS 1 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR PELICULAS 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027557.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PELICULAS 2 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR PELICULAS 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027558.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PELICULAS 3 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR PELICULAS 3 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027559.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PELICULAS 6 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR PELICULAS 6 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027560.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PELICULAS 4 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR PELICULAS 4 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027561.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PELICULAS 5 HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR PELICULAS 5 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027562.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR SERIESMANIA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21296.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR DRAMA HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR DRAMA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21303.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR BOM CINE HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR BOM CINE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/302909.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR CRIMEN HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - MOVISTAR CRIMEN HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/302910.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR  CLASICOS HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - MOVISTAR  CLASICOS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1018455.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PLUS+ SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR PLUS+ SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061275.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR PLUS+ 2 SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MOVISTAR PLUS+ 2 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061276.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - MOVISTAR DOCUMENTALES SD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - MOVISTAR DOCUMENTALES SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061277.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - BE MAD FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029261.ts
@@ -2259,25 +2259,25 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029261.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/662018.ts
 #EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - BE MAD SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21335.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - TELE NOVELAS FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE NOVELAS FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029288.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - NAVARRA TV1 FHD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - NAVARRA TV1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029328.ts
-#EXTINF:-1 tvg-id="FDF.es" tvg-name="FDF.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - FDF HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - FDF HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21358.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - HOLLYWOOD HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - HOLLYWOOD HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21356.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - SOLIDARIA TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - SOLIDARIA TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027508.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY HEVC
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21324.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027430.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - DIVINITY SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061207.ts
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy.es" group-title="|ES| ✪ ENTERTENIMIENTO",ES - ENERGY SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ENERGY SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061206.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - ALQUILER 2 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ALQUILER 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/665475.ts
 #EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - M. LIGA DE CAMPEONES 1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027138.ts
@@ -2357,9 +2357,9 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1376034.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029311.ts
 #EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M. FUTBOL FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/591080.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M .COPA AMERICA 1 HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M .COPA AMERICA 1 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/923180.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M. COPA AMERICA 2 HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M. COPA AMERICA 2 HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/923179.ts
 #EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M. GOLF HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76708.ts
@@ -2367,11 +2367,11 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76708.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/848925.ts
 #EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M. GOLF 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027114.ts
-#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - M. PLUS+ HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M. PLUS+ HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027103.ts
-#EXTINF:-1 group-title="|ES| ✪ DAZN FEME SOLO EVENTOS",ES - M. ELLAS #V HD
+#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M. ELLAS #V HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027115.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - M. SUPER CUPA SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - M. SUPER CUPA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/584556.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA HYPERMOTION",ES - LALIGA HYPERMOTION 1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/497654.ts
@@ -2389,25 +2389,25 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/975901.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1345897.ts
 #EXTINF:-1 group-title="|ES| ✪ COPA DEL REY",ES - MOVISTAR COPA DEL REY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1345898.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - BEIN SPORTS Ñ FHD
+#EXTINF:-1 group-title="|ES| ✪ BEIN SPORT",ES - BEIN SPORTS Ñ FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029422.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - BEIN SPORTS EXTRA Ñ FHD
+#EXTINF:-1 group-title="|ES| ✪ BEIN SPORT",ES - BEIN SPORTS EXTRA Ñ FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1029423.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - EUROSPORT 1 FHD
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76689.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - EUROSPORT 1 HD
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76688.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - EUROSPORT 1 SD
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 1 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061265.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - EUROSPORT 2 FHD
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 2 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1140873.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - EUROSPORT 2 HD
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 2 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76687.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - EUROSPORT 2 SD
+#EXTINF:-1 group-title="|ES| ✪ EUROSPORT",ES - EUROSPORT 2 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061266.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - ONE TORO TV HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ONE TORO TV HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/757751.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - ONE TORO TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ONE TORO TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/757752.ts
 #EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - #VAMOS HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/151588.ts
@@ -2415,31 +2415,31 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/151588.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/309439.ts
 #EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - #VAMOS SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061269.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - LA LIGA TV BAR HEVC
+#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - LA LIGA TV BAR HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1026644.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - LA LIGA TV BAR HD
+#EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - LA LIGA TV BAR HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/288868.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - R. MADRID TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - R. MADRID TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027113.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - R. MADRID TV SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - R. MADRID TV SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/76705.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - TOROLE HEVC
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TOROLE HEVC
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061260.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - TOROLE HD 
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TOROLE HD 
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061261.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - TOROLE SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TOROLE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061262.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - ONETORO HD 
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ONETORO HD 
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061263.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - ONETORO SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ONETORO SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061264.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - RED BULL TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RED BULL TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1028836.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - RALLY TV (not 24/7) HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RALLY TV (not 24/7) HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1187707.ts
-#EXTINF:-1 group-title="|ES| ✪ DEPORTES",ES - TELE DEPORTE HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELE DEPORTE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/21291.ts
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte.es" group-title="|ES| ✪ DEPORTES",ES - TELEDEPORTE SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - TELEDEPORTE SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1061353.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - LALIGA REPLAY ENGLISH 1 UHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655472.ts
@@ -2467,45 +2467,45 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655469.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655470.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - LALIGA REPLAY 10 UHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655471.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 1 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 1 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/500571.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 2 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 2 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390285.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 3 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 3 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390286.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 4 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 4 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390287.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 5 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 5 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390288.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 6 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 6 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390289.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 7 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 7 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/504789.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 8 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 8 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/504790.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 9 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 9 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390290.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 10 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 10 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390291.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 11 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 11 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390292.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 12 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 12 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390293.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 13 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 13 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390294.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 14 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 14 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390295.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 15 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 15 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390297.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 16 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 16 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390298.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 17 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 17 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390299.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 18 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 18 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390300.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV 19 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV 19 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390301.ts
-#EXTINF:-1 group-title="|ES| ✪ RFEF SOLO EVENTOS",ES - FEF TV  20 FHD (SOLO EVENTOS)
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FEF TV  20 FHD (SOLO EVENTOS)
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/390302.ts
 #EXTINF:-1 group-title="|ES| ✪ LALIGA",ES - M. LALIGA 1 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/156295.ts
@@ -2557,225 +2557,225 @@ http://ktkguru.com/live/1678171048233507/41D4EA0655BC/288865.ts
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/288866.ts
 #EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - M. LIGA DE CAMPEONES 12 FHD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/288867.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO BEGUR
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO BEGUR
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655590.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO VOLTREGÀ
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO VOLTREGÀ
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655554.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO VILAMAJOR
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO VILAMAJOR
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655555.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO TÀRREGA
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO TÀRREGA
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655557.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO RÀPITA
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO RÀPITA
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655565.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO PUIG-REIG
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO PUIG-REIG
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655567.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO PALAFRUGELL
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO PALAFRUGELL
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655572.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RADIO OLOT
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RADIO OLOT
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655576.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO BALAGUER
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO BALAGUER
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655591.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO ARRELS / FLASH
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO ARRELS / FLASH
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655593.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO ARENYS DE MAR
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO ARENYS DE MAR
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655595.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - RÀDIO 90
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - RÀDIO 90
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655596.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - IB3 RÀDIO
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - IB3 RÀDIO
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655598.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - El 9 FM
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - El 9 FM
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655546.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - KISS FM
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - KISS FM
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655548.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - PROXIMA FM
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - PROXIMA FM
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655549.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - XtraFM Costa Brava
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - XtraFM Costa Brava
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655550.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - CUGAT RÀDIO EN DIRECTE
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CUGAT RÀDIO EN DIRECTE
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/655599.ts
-#EXTINF:-1 group-title="|ES| ✪ M LCAMPEON",ES - KARAOKE 1 HD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - KARAOKE 1 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1027035.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Telenovelas HD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - Pluto TV Telenovelas HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363636.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Comedia HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Comedia HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363648.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Romántico HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Romántico HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363650.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Thrillers HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Thrillers HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363651.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Animales HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - Pluto TV Animales HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363687.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Motor HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Motor HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363689.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - PLUTO TV KIDS UKRAINE HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - PLUTO TV KIDS UKRAINE HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363738.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV ANA Y LOS 7 HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  PLUTO TV ANA Y LOS 7 HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089364.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV COMEDIA (MADE IN SPAIN) HD [NOT 24/7]
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  PLUTO TV COMEDIA (MADE IN SPAIN) HD [NOT 24/7]
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089369.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV FORENSIC FILES EN ESP HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  PLUTO TV FORENSIC FILES EN ESP HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089370.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV MTV CATFISH (SPAIN) HD [NOT 24/7]
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  PLUTO TV MTV CATFISH (SPAIN) HD [NOT 24/7]
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089371.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV MTV MUSIC MADE IN SPAIN HD [NOT 24/7]
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES -  PLUTO TV MTV MUSIC MADE IN SPAIN HD [NOT 24/7]
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089372.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - PLUTO TV THE WALKING DEAD ESP HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - PLUTO TV THE WALKING DEAD ESP HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089375.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Animakids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Animakids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243801.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Animakids (Spain) HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Animakids (Spain) HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243802.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Animales HD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - Pluto TV Animales HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243803.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Acción HD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Acción HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243805.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243812.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243813.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243814.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243815.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243816.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243817.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243818.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Kids (Spain) HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Pluto TV Kids (Spain) HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243819.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Realities ESP HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Realities ESP HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243820.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Realities ESP HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Realities ESP HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243821.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Teen Stars HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Teen Stars HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243822.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV The Walking Dead ESP HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV The Walking Dead ESP HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243823.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Los nuevos detectives HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Los nuevos detectives HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363660.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Vaya semanita HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Vaya semanita HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363671.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Ciudadanos por el mundo HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Ciudadanos por el mundo HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363673.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - En el punto de mira HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - En el punto de mira HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363674.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Empeños a lo bestia HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Empeños a lo bestia HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363675.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Ice Pilots HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Ice Pilots HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363676.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - El encantador de perros HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - El encantador de perros HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363679.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Tuning HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Tuning HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363690.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - FUEL TV HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FUEL TV HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363691.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Catfish TV Show HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV Catfish TV Show HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363697.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Realities HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV Realities HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363700.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Originals HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV Originals HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363701.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Euronews HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Euronews HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363715.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - CBS News HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - CBS News HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363716.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Anime HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Anime HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363728.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Las Tortugas Ninja HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Las Tortugas Ninja HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363729.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Bob Esponja HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Bob Esponja HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363731.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Rugrats HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - Rugrats HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363733.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - DORA LA EXPLARADORA HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - DORA LA EXPLARADORA HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363740.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - PLUTO TV KIDS HD
+#EXTINF:-1 group-title="|ES| ✪ NIÑOS",ES - PLUTO TV KIDS HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363741.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - BIG TIME RISH HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BIG TIME RISH HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363743.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - ICARLY HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - ICARLY HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363745.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Comedia Made in Spain HD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Comedia Made in Spain HD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243800.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Star Trek SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Star Trek SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363630.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Series Comedia SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - Pluto TV Series Comedia SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363640.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Paranormal SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Paranormal SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363662.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV CINE ACCIÓN SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES -  PLUTO TV CINE ACCIÓN SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089366.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV CINE ESTELAR SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES -  PLUTO TV CINE ESTELAR SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089367.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV COCINA SD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES -  PLUTO TV COCINA SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089368.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES -  PLUTO TV MTV ORIGINALS (SPAIN) SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES -  PLUTO TV MTV ORIGINALS (SPAIN) SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1089373.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Acción SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Acción SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243804.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Estelar SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Estelar SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243806.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Estelar SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Estelar SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243807.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Estelar SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Estelar SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243808.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cocina SD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - Pluto TV Cocina SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243809.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cocina SD
+#EXTINF:-1 group-title="|ES| ✪ DOCUMENTALES",ES - Pluto TV Cocina SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243810.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Forensic Files en ESP SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Forensic Files en ESP SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243811.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Series SD
+#EXTINF:-1 group-title="|ES| ✪ ENTERTENIMIENTO",ES - Pluto TV Series SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363642.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Drama SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Drama SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363652.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Cine Clásico SD
+#EXTINF:-1 group-title="|ES| ✪ CINEMA",ES - Pluto TV Cine Clásico SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363654.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Horror SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Horror SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363646.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Embarazada a los 16 SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV Embarazada a los 16 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363703.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Tattoo a dos SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV Tattoo a dos SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363704.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Music Made in Spain SD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MTV Music Made in Spain SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363707.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Party Music SD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - MTV Party Music SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363708.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Doctor Who SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Doctor Who SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363631.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - BBC Drama SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - BBC Drama SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363637.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Andrómeda SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Andrómeda SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363638.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Las reglas del juego SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Las reglas del juego SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363643.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Pluto TV Sci-Fi SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Pluto TV Sci-Fi SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363647.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Runtime SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Runtime SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363656.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Archivos Forenses SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Archivos Forenses SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363657.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Los archivos del FBI SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Los archivos del FBI SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363661.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - El Comisario SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - El Comisario SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363666.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Ana y los 7 SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Ana y los 7 SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363668.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Curro Jiménez SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Curro Jiménez SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363670.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Top Gear SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Top Gear SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363688.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - World Poker Tour SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - World Poker Tour SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363695.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - MTV Teen Mom SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - MTV Teen Mom SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363702.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - VH1 Classics SD
+#EXTINF:-1 group-title="|ES| ✪ MUSIC",ES - VH1 Classics SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363706.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - FailArmy SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - FailArmy SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363719.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Wipeout SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Wipeout SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/363720.ts
-#EXTINF:-1 group-title="|ES| ✪ TIVIFY GOLD",ES - Top Gear SD
+#EXTINF:-1 group-title="|ES| ✪ TDT/AUTONOMICOS",ES - Top Gear SD
 http://ktkguru.com/live/1678171048233507/41D4EA0655BC/1243824.ts
